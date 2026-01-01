@@ -309,9 +309,3 @@ logging.level.org.springframework.security=DEBUG
 ## License
 
 This project is part of an example authentication service implementation.
-# Auth-Service
-# Auth-Service
-# Auth-Service
-# Auth-Service
-# Auth-Service
-# Auth-Service
