@@ -310,3 +310,4 @@ logging.level.org.springframework.security=DEBUG
 
 This project is part of an example authentication service implementation.
 # Auth-Service
+# Auth-Service
