@@ -9,6 +9,16 @@
             "projectName": "auth-service",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-AuthServiceApplication<Auth-Service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.authservice.AuthServiceApplication",
+            "projectName": "Auth-Service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
